@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The batchelor's triumph: or, The single-man's happiness. A hen-peck'd husband's like a slave, who wears his masters fetters, whom each whisper scares; his thoughts are all to please his wife, not knows he other hell, then what her frowns disclose: what mad-men then will be such fools, when they without controul, may love and freedom sway. To the tune of, For what is man, &amp;c. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06920</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[23]</idno>
+            <idno type="EEBO-CITATION">99887606</idno>
+            <idno type="PROQUEST">ocm99887606</idno>
+            <idno type="VID">183229</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183229)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The batchelor's triumph: or, The single-man's happiness. A hen-peck'd husband's like a slave, who wears his masters fetters, whom each whisper scares; his thoughts are all to please his wife, not knows he other hell, then what her frowns disclose: what mad-men then will be such fools, when they without controul, may love and freedom sway. To the tune of, For what is man, &amp;c. With allowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. B[...] at the Golden-Ball, near the Hospital-gate in West-sm[ithfield],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "For what is man confin'd ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Cf. Wing B263A which has initials in the imprint, and B263 which has the name "P. Brooksby."</note>
+                  <note>Imperfect: cropped, affecting imprint and text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183229:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>
+               <hi>The Batchelor's Triumph: Or,</hi> The Single-Man's Happineſs.</head>
+            <argument>
+               <lg>
+                  <l>A Hen-peck'd Husband's like a Slave, who wears</l>
+                  <l>His Maſters Fetters, whom each whiſper ſcares;</l>
+                  <l>His thoughts are all to pleaſe his Wife, nor knows</l>
+                  <l>He other Hell, then what her frowns diſcloſe:</l>
+                  <l>What Mad-men then will be ſuch fools, when they</l>
+                  <l>Without controul, may Love and Freedom ſway.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>For what is Man, &amp;c.</hi>
+            </opener>
+            <p>With Allowance.</p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>FOr what is Man confin'd</l>
+               <l>Vnto a Woman kind?</l>
+               <l>But a Slave, Cuckold, and Drudge;</l>
+               <l>that muſt work and toyl,</l>
+               <l>whilſt her Amors beguile,</l>
+               <l>And deprive him of what he gains:</l>
+               <l>but we will live a Single life,</l>
+               <l>and free from care and ſtrife,</l>
+               <l>We tip their Fortunes for their pains.</l>
+            </lg>
+            <lg>
+               <l>Royot we all the day,</l>
+               <l>they bound and muſt obey,</l>
+               <l>Wives they will curb'um and make 'umgrow Sots;</l>
+               <l>But we are free from this,</l>
+               <l>Are not oblieg'd to Kiſs,</l>
+               <l>Keep Ladies company juſt when we pleaſe:</l>
+               <l>Paſs the whole Year away,</l>
+               <l>Merrily as the Day,</l>
+               <l>Revel like Princes with pleaſure and eaſe.</l>
+            </lg>
+            <lg>
+               <l>Treated whole weeks are we,</l>
+               <l>they love Variety,</l>
+               <l>There's not a woman but will have her friend;</l>
+               <l>Poor ſilly Idle Knaves,</l>
+               <l>their wives we make our ſlaves,</l>
+               <l>Court 'um to taverns, to Ball and to Plays;</l>
+               <l>Whilſt the poor Fool at home,</l>
+               <l>Patient ſits like a Moam.</l>
+               <l>What they want nightly we give 'um a day.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>TAke Coach and to <hi>Hide-Park,</hi>
+               </l>
+               <l>There Revel till 'tis dark,</l>
+               <l>Then with all ſpeed the next tavern we find;</l>
+               <l>Whither we ſtraight repair,</l>
+               <l>treated with ſumptuous fare,</l>
+               <l>And whatſoe'r we want have at command:</l>
+               <l>Oyſters and wine are free,</l>
+               <l>Or whatſoe'r we ſee,</l>
+               <l>Sil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when we call for it's ready at hand.</l>
+            </lg>
+            <lg>
+               <l>Poor Husbands they know not,</l>
+               <l>their Money pays the Shot,</l>
+               <l>While that in Horns we return it agen;</l>
+               <l>Ignorant of the caſe,</l>
+               <l>Whilſt we their Fore-heads grace,</l>
+               <l>And do adorn their Brows with a high Creſt;</l>
+               <l>They'l not at Beer repine,</l>
+               <l>Whilſt their wives feaſt with wine,</l>
+               <l>But think that all they do is for the beſt.</l>
+            </lg>
+            <lg>
+               <l>Whilſt their Dames Rant and ſing,</l>
+               <l>And cloſe about us cling,</l>
+               <l>Panting long time we lye in loves imbrace</l>
+               <l>For which their Gold they ſpend,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd what we askt 'um lend,</l>
+               <l>Free without Bond or ſcruple reſign,</l>
+               <l>And empty all their ſtore,</l>
+               <l>Let Husbands work for more,</l>
+               <l>Friends ſhall be ſurely ſupply'd with their coin.</l>
+            </lg>
+            <lg>
+               <l>VVhilſt they keep on their pace,</l>
+               <l>And the Moams ſaddles grace,</l>
+               <l>Of what they poſſeſs there's noug<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>then who would be Marry'd,</l>
+               <l>Continually wearied,</l>
+               <l>When loves ſweet accents ſo ple<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>that Paſtimes and Pleaſures,</l>
+               <l>we take at our leaſures,</l>
+               <l>And can abridge them when wea<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>VVe live free from thoſe cares</l>
+               <l>that a Husband ſtill fears,</l>
+               <l>Frownings and poutings from <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>till the fools Monies give,</l>
+               <l>that they quiet may live,</l>
+               <l>Which on their Gallants ſo kind,</l>
+               <l>For the which we embrace,</l>
+               <l>And ſet Horns on their face,</l>
+               <l>Whilſt the lov'd ſilver procures <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>The poor Mopus confides,</l>
+               <l>And for Chriſtening provides,</l>
+               <l>And by the Cradle a Rocking h<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Then let Sots be confin'd</l>
+               <l>Vnto falſe women kind,</l>
+               <l>But we'r reſolv'd to Court ſing <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And to pitty his caſe,</l>
+               <l>Who with Hornny-fy'd face,</l>
+               <l>Slaves for his wife both by day <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at the Golden-Ball, near the Hoſpital-gate in <hi>Weſt-ſmith</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
